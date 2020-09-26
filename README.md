@@ -1,10 +1,10 @@
 Simple demo of calculating angle between hour and minute hand of the analog clock in python
 
 Install requirements
-- pip install - requirements.txt
+- pip3 install - requirements.txt
 
 Run tests with
-- python -m unittest
+- python3 -m unittest
 
 Run demo with
-- python main.py
+- python3 main.py
